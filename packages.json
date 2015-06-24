@@ -1751,12 +1751,12 @@
     "web": "https://github.com/fallingduck/options-nim"
   },
   {
-    "name": "oldwinapi",
-    "url": "git://github.com/nim-lang/oldwinapi",
+    "name": "nimx",
+    "url": "git://github.com/yglukhov/nimx",
     "method": "git",
-    "tags": ["library", "windows", "api"],
-    "description": "Old Win API library for Nim",
-    "license": "LGPL with static linking exception",
-    "web": "https://github.com/nim-lang/oldwinapi"
+    "tags": ["gui", "ui", "library"],
+    "description": "Cross-platform GUI framework",
+    "license": "BSD",
+    "web": "https://github.com/yglukhov/nimx"
   }
 ]
